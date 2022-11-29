@@ -1,0 +1,20 @@
+header
+{
+    padding: 12px;
+    background-color:blanchedalmond;
+}
+main-div{
+    display: flex; 
+    justify-content:space-between;
+    align-items: center;
+     background-color: blue; 
+   } 
+   .ul-div{ 
+       display: flex; 
+       list-style: none; 
+       font-size: 25px;
+   }
+    .ul-div>li{
+       padding: 20px;
+       
+    } 
